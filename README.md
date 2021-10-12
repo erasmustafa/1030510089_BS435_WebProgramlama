@@ -1,2 +1,3 @@
-# 1030510089_BS435_WebProgramlama
- Web Programlama dersindeki kazanımlarım
+Öğrenci Numarası: 1030510089
+Öğrenci Adı: Mustafa BEDİR
+Ders Adı: BS435 Web Programlama
